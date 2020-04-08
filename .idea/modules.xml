@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conftable.iml" filepath="$PROJECT_DIR$/.idea/modules/conftable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conftable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/conftable_main.iml" group="conftable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/conftable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/conftable_test.iml" group="conftable" />
+    </modules>
+  </component>
+</project>
