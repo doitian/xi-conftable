@@ -10,5 +10,5 @@ conftable 是使用 Java 实现的配置表转换工具，方便策划直接使�
 -   所有的 Excel 配置表放在一个目录中
 -   双击 jar 包打开 GUI 界面，选择目录进行转换，转换后的文件会保存在和配置表相同的目录下。
 
-[演示视频](https://vimeo.com/405468298)
+[演示视频](https://vimeo.com/405468298) | [Jar 包和模版 Excel 文件](https://github.com/doitian/xi-conftable/releases)
 
